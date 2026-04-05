@@ -45,7 +45,7 @@ const berke = {
   experience : "4 years",
   strongestIn: "Python",
   focus      : ["Backend Systems", "Full-Stack", "Distributed Architecture"],
-  belief     : "Simple code outlasts clever code"
+  belief     : "just vibe it"
 };
 ```
 
