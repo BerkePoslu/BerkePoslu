@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/EXPERIENCE-4%20YEARS-1a0030?style=for-the-badge&labelColor=4b0082&color=1a0030"/>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/HOURS%20CODED-1000%2B-1a0030?style=for-the-badge&labelColor=4b0082&color=1a0030"/>
+<img src="https://img.shields.io/badge/HOURS%20DEBUGGED-1000%2B-1a0030?style=for-the-badge&labelColor=4b0082&color=1a0030"/>
 </td>
 <td align="center" width="200">
 <img src="https://img.shields.io/badge/PRIMARY%20LANG-PYTHON-1a0030?style=for-the-badge&labelColor=4b0082&color=1a0030"/>
